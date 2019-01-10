@@ -1,6 +1,6 @@
 # Sipwise rtpengine speech to text via Google Speech API
 
-This is a proof of concept to utilize Sipwise rtpengine and its companion recording daemon to
+This is a proof of concept to utilize Sipwise rtpengine and its rtp fan-out /proc interface to
 transcribe an ongoing call from speech to text in near real time using the Google Speech API.
 
 ## Prerequisites
